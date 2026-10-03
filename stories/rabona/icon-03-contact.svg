@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title">
+  <title id="title">Rabona — Contact</title>
+  <g id="icon" transform="translate(40 40)" fill="none" stroke="#F5EEDD" stroke-width="44" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 755 641 C 748 599 716 572 674 576 C 644 578 628 602 605 599 C 563 594 430 467 416 424 C 407 399 447 385 459 352 C 477 305 447 263 404 249 C 330 223 263 265 255 326 C 232 486 488 774 674 779 C 709 781 730 779 742 775"/>
+    <circle cx="754" cy="706" r="28" fill="#FF7410" stroke="none"/>
+  </g>
+</svg>

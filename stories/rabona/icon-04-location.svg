@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title">
+  <title id="title">Rabona — Location</title>
+  <g id="icon" transform="translate(40 36)" fill="none" stroke="#F5EEDD" stroke-width="44" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 449 629 C 366 543 300 458 300 376 C 300 267 390 190 500 190 C 610 190 700 267 700 376 C 700 458 634 543 551 629"/>
+    <path d="M 351 620 C 274 638 231 697 259 752 C 291 818 365 801 449 731"/>
+    <path d="M 649 620 C 726 638 769 697 741 752 C 709 818 635 801 551 731"/>
+    <circle cx="500" cy="680" r="28" fill="#FF7410" stroke="none"/>
+  </g>
+</svg>

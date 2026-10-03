@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /studio
+Disallow: /api/
+
+Host: https://daniall-portfolio.github.io
+Sitemap: https://daniall-portfolio.github.io/sitemap.xml

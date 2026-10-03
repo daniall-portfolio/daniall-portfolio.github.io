@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-label="Rabona tournament highlight - flag"><title>Rabona tournament highlight - flag</title><g id="tournament-flag" fill="none" stroke="#F5EEDD" stroke-width="44" stroke-linecap="round" stroke-linejoin="round">
+ <path id="flag-upper" d="M 307 474 V 338 C 307 265 364 237 429 250 C 533 272 646 361 735 348 C 759 345 777 332 791 340 C 805 348 805 363 805 383 V 548 C 805 621 754 660 692 650 C 627 639 527 584 423 532"/>
+ <path id="flag-fold" d="M 307 630 V 764 C 307 823 358 852 407 819 L 578 689"/>
+ <circle id="accent" cx="307" cy="552" r="28" fill="#FF7410" stroke="none"/>
+</g></svg>

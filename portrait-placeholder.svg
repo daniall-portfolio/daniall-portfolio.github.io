@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract portrait placeholder</title>
+  <desc id="desc">A neutral editorial silhouette formed from geometric shapes, ready to be replaced with Danial's portrait.</desc>
+  <rect width="1200" height="1500" fill="#ddd6c8"/>
+  <circle cx="600" cy="520" r="250" fill="#aaa295"/>
+  <path d="M212 1500c0-375 165-618 388-618s388 243 388 618H212Z" fill="#777268"/>
+  <path d="M117 119h485L117 604V119Z" fill="#d84c36" opacity=".82"/>
+  <path d="M1081 730H705l376-376v376Z" fill="#20201d" opacity=".86"/>
+  <path d="M125 1358h403" stroke="#f4f0e7" stroke-width="8"/>
+  <text x="125" y="1418" font-family="Arial, sans-serif" font-size="34" letter-spacing="4" fill="#f4f0e7">PORTRAIT PLACEHOLDER</text>
+</svg>

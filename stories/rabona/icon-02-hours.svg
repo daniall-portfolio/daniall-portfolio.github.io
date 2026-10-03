@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title">
+  <title id="title">Rabona — Opening hours</title>
+  <g id="icon" transform="translate(40 40)" fill="none" stroke="#F5EEDD" stroke-width="44" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 416 233 A 280 280 0 1 0 596 763"/>
+    <path d="M 663 728 A 280 280 0 0 0 584 233"/>
+    <path d="M 500 330 L 500 500 L 628 596"/>
+    <circle cx="500" cy="220" r="28" fill="#FF7410" stroke="none"/>
+  </g>
+</svg>

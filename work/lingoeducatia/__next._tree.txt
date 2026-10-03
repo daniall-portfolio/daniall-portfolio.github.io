@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/2eddgwt_cdkxt.css","style"]
+:HL["/_next/static/chunks/021fkheb7sa16.css","style"]
+:HC["/",""]
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"lingoeducatia","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"sPogvNs_pJyFPkdGjE42U"}

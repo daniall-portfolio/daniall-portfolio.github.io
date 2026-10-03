@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title">
+  <title id="title">Rabona — About us</title>
+  <g id="icon" transform="translate(40 28)" fill="none" stroke="#F5EEDD" stroke-width="44" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="500" cy="310" r="132"/>
+    <path d="M 422 552 C 318 568 227 634 230 706 C 234 794 470 837 653 798"/>
+    <path d="M 578 552 C 691 571 773 637 770 714"/>
+    <circle cx="500" cy="552" r="28" fill="#FF7410" stroke="none"/>
+  </g>
+</svg>
